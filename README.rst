@@ -5,11 +5,8 @@ Calculate the distance between your smartphone screen and your face using the fr
 
 .. image:: Images/Close.jpg
     :alt: HTTPie compared to cURL
-    :width: 835
-    :height: 835
+    :width: 100
+    :height: 100
     :align: center
 
 
-![alt tag](Images/Close.jpg)![alt tag](Images/Far.jpg)
-
-![alt tag](Images/Idea.png)
