@@ -6,5 +6,5 @@ Calculate the distance between your smartphone screen and your face using the fr
 
 -![alt tag](Images/Close.jpg)
 -![alt tag](Images/Far.jpg)
-
+-![alt tag](Images/Idea.png)
 
