@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">&#x0A;<refactoring comment="Delete 3 resources" deleteContents="true" description="Delete 3 resources" element1="/GSS_Client_Android" element2="/MonkeyCam" element3="/RemoteSystemsTempFiles" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="3" stamp="1408181560321"/>&#x0A;<refactoring comment="Delete 3 resources" deleteContents="true" description="Delete 3 resources" element1="/FaceDistance" element2="/facedistance1" element3="/FaceDistanceMeasurement" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="3" stamp="1408181574211"/>
-</session>

@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;SpreadsheetToDrive&apos;" deleteContents="true" description="Delete resource &apos;SpreadsheetToDrive&apos;" element1="/SpreadsheetToDrive" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1368029316890"/>&#x0A;<refactoring comment="Delete resource &apos;SpreadsheetToGoogleDrive&apos;" deleteContents="true" description="Delete resource &apos;SpreadsheetToGoogleDrive&apos;" element1="/SpreadsheetToGoogleDrive" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1368031462057"/>
-</session>
