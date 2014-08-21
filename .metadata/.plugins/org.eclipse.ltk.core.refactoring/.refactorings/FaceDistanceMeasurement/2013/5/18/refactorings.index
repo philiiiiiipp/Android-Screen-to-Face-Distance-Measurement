@@ -1,0 +1,6 @@
+1367493221491	Encapsulate field '_measuredPositionWithoutMistake'
+1367495340144	Encapsulate field 'foundFaces'
+1367495347668	Rename field 'foundFaces'
+1367495553311	Rename field '_facesFountInMeasurement'
+1367496718905	Rename field 'CALIBRATION_DISTANCE_A4'
+1367576938045	Rename type 'MeasurementSubInfo'
