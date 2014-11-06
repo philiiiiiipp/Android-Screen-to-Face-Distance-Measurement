@@ -14,3 +14,6 @@ Far:
 
 For a video showing its awesomeness 
 https://www.youtube.com/watch?v=-6_pGkPKAL4
+
+And the link to the scientific paper
+http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6825217
