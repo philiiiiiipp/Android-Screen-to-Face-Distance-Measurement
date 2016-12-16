@@ -15,5 +15,5 @@ Far:
 For a video  
 https://www.youtube.com/watch?v=-6_pGkPKAL4
 
-And the link to a more thurough analysation  
+And the link to a more thorough analysation  
 http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6825217
