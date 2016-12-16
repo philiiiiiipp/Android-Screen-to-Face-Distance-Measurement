@@ -12,8 +12,8 @@ Close:
 Far:
 ![alt tag](Images/Far.jpg)
 
-For a video showing its awesomeness 
+For a video  
 https://www.youtube.com/watch?v=-6_pGkPKAL4
 
-And the link to the scientific paper
+And the link to a more thurough analysation  
 http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6825217
