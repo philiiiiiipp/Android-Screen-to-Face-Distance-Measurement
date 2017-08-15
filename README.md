@@ -1,6 +1,8 @@
 Android-Screen-to-Face-Distance-Measurement
 ===========================================
 
+#### Beware that this code is unmaintained since a couple of years and will probably not work with current android versions. 
+
 Calculate the distance between your smartphone screen and your face using the front facing camera. The idea is pretty simple and best explained in an image.
 
 ![alt tag](Images/Idea.png)
