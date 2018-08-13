@@ -17,6 +17,6 @@ Far:
 For a video  
 https://www.youtube.com/watch?v=-6_pGkPKAL4
 
-And the link to a more thorough analysation  
+And the link to the paper with a more thorough analysation can be found at  
 http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6825217  
-If you do not have free access to ieee send me a message and I will give send you a copy
+or [here](https://github.com/philiiiiiipp/Android-Screen-to-Face-Distance-Measurement/blob/master/A%20new%20context%20-%20Screen%20to%20Face%20distance%201%201.pdf). 
